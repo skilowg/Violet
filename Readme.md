@@ -1,1 +1,3 @@
 Violet's are purple.
+
+And roses are red, blue, white and all other colors...
